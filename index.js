@@ -11,3 +11,4 @@ const isChecked = true;
 
 console.log(isChecked && isClosed);
 console.log(isChecked && isClosed);
+console.log(isChecked && isClosed);
